@@ -20,3 +20,13 @@ This will generatre ARP broadcast request for the non-existing 192.168.100.254 I
 At the same time, connect onto Customer100-2 or Customer100-3 and use tcpdump, they receive the broadcast ARP request
 
 <img width="731" height="126" alt="image" src="https://github.com/user-attachments/assets/99f2a42d-e924-4658-8210-b5f592989579" />
+
+
+Spine1 and Spine2 capture the VXLAN packets.
+
+<img width="1611" height="315" alt="image" src="https://github.com/user-attachments/assets/6986fd99-9cd2-4e80-ac34-ba279ce6f863" />
+
+You can add "verbose" in the command for more details
+
+<img width="827" height="819" alt="image" src="https://github.com/user-attachments/assets/ed0dce8a-e48c-40cf-b6ce-13e37677a457" />
+
