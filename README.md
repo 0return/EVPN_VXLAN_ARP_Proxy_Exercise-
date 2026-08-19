@@ -56,5 +56,18 @@ You can check the ARP table on Customer100-1
 
 SR Linux supports proxy-ARP on L2 EVPN service. SR Linux will then intercept incoming ARP requests and directly reply to them instead of flooding the request to all other VTEPs
 
+Config
+
+
+<img width="525" height="215" alt="image" src="https://github.com/user-attachments/assets/08a799cd-a6a8-4efb-930d-5aeb4026a6fd" />
+
+
+An immediate effect to enabling proxy/ARP is that a new entry is added to the MAC table
+
+<img width="1300" height="375" alt="image" src="https://github.com/user-attachments/assets/71721524-4450-47fa-b5a4-abfa3ff1d486" />
+
+The system adds a "reserved" destination with a system chassis MAC address (show platform chassis).
+
+
 
 
