@@ -30,3 +30,26 @@ You can add "verbose" in the command for more details
 
 <img width="827" height="819" alt="image" src="https://github.com/user-attachments/assets/ed0dce8a-e48c-40cf-b6ce-13e37677a457" />
 
+
+Now that an ARP request for an existing IP address.
+
+Customer100-1
+
+<img width="444" height="146" alt="image" src="https://github.com/user-attachments/assets/20185820-f1a0-46af-a9a8-afeb793b369e" />
+
+
+Customer100-2
+
+<img width="718" height="196" alt="image" src="https://github.com/user-attachments/assets/4b29f873-92ea-4321-957e-21268b28bf58" />
+
+
+Spine1
+
+
+<img width="1594" height="243" alt="image" src="https://github.com/user-attachments/assets/94462605-814f-4567-8710-98bc0f7f894a" />
+
+
+You can check the ARP table on Customer100-1
+
+<img width="417" height="94" alt="image" src="https://github.com/user-attachments/assets/97f96b88-a3c1-4aa4-af9a-c3d505c6d0cd" />
+
