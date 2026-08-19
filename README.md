@@ -53,3 +53,8 @@ You can check the ARP table on Customer100-1
 
 <img width="417" height="94" alt="image" src="https://github.com/user-attachments/assets/97f96b88-a3c1-4aa4-af9a-c3d505c6d0cd" />
 
+
+SR Linux supports proxy-ARP on L2 EVPN service. SR Linux will then intercept incoming ARP requests and directly reply to them instead of flooding the request to all other VTEPs
+
+
+
