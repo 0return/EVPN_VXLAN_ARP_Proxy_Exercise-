@@ -69,5 +69,9 @@ An immediate effect to enabling proxy/ARP is that a new entry is added to the MA
 The system adds a "reserved" destination with a system chassis MAC address (show platform chassis).
 
 
+On Customer100-1 generate a Gratuitous ARP, this typically performed by applications to notify a neighbor of their own MAC and IP address. In fact a gARP is an unsolicited ARP reply populated with its own MAC/IP address
+
+
+
 
 
