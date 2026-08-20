@@ -96,7 +96,7 @@ Same steps on Customer100-2 and Leaf2
 <img width="351" height="91" alt="image" src="https://github.com/user-attachments/assets/2a5d6b82-ca48-40c5-9a4e-bcebc251ab9e" />
 
 
-Check the Proxy-ARP table on Leaf2
+Check the Proxy-ARP table on Leaf2, you must two entries 
 
 
 <img width="1607" height="326" alt="image" src="https://github.com/user-attachments/assets/9c404eea-139d-4a67-ad81-e1eefd37974e" />
