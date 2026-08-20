@@ -85,6 +85,13 @@ The gARP has been snooped and has triggered a new dynamic entry in the proxy ARP
 <img width="1378" height="292" alt="image" src="https://github.com/user-attachments/assets/5f66cfd3-3b49-4115-b658-b7fcb2e584d0" />
 
 
+as another result, Leaf1 will generate a new EVPN RT2 update and advertise it to the RR
+
+
+<img width="1378" height="636" alt="image" src="https://github.com/user-attachments/assets/ce4a5b43-9a15-4e16-8b32-1aa6ae606c43" />
+
+
+
 
 
 
