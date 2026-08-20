@@ -79,6 +79,10 @@ Leaf1 learn Customer1-100´s MAC address
 <img width="1304" height="386" alt="image" src="https://github.com/user-attachments/assets/e3fb5631-fed2-4a8d-8f80-e0e05dc83cc8" />
 
 
+The gARP has been snooped and has triggered a new dynamic entry in the proxy ARP table.
+
+
+<img width="1378" height="292" alt="image" src="https://github.com/user-attachments/assets/5f66cfd3-3b49-4115-b658-b7fcb2e584d0" />
 
 
 
